@@ -1,0 +1,14 @@
+{
+  "dev":{
+    "url":{
+      "uri1":"https://alaltpnc405.risk.regn.net:9016/incoming-bridge/application/status",
+      "uri2":"https://alaltpnc405.risk.regn.net:9013/incoming-monitor/application/status"
+    }
+  },
+  "qa":{
+    "url":{
+      "uri1":"https://example.com/qa/uri1/",
+      "uri2":"https://example.com/qa/uri2/"
+    }
+  }
+}
